@@ -103,17 +103,7 @@ This project demonstrates:
 - CSS styling and responsive design principles
 - Clean code organization and structure
 
-## 🔮 Future Enhancements
 
-Potential features to add:
-- [ ] Visual feedback with button animations when pressed
-- [ ] Recording and playback functionality
-- [ ] Volume control slider
-- [ ] Different drum kit themes/sound sets
-- [ ] Beat sequencer or loop creation
-- [ ] Mobile touch gestures support
-- [ ] Save and share custom beats
-- [ ] Visual drum pad highlighting on key press
 
 ## 🤝 Contributing
 
